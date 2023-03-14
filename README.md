@@ -24,4 +24,5 @@ Pago unico.
 **Segmento de mercado**<br>
 **Paises:** Todos los posibles<br>
 **Jugador:** casual o no casual<br>
-**Potncial de ventas/interes:** 
+**Potncial de ventas/interes:** <br> 
+**Parametros que debe incluir:** <br>
