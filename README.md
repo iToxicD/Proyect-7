@@ -20,3 +20,8 @@ Ocurre en la isla de cadiz con una adaptacion en lowpoly.<br>
 De 2-3 meses.<br>
 **¿Cómo podría monetizarse el juego? ¿Será un juego de pago único, un juego gratuito con compras integradas o un juego basado en publicidad?**<br>
 Pago unico.
+------------------------------------------------------------------------------------------------------------------------------
+**Segmento de mercado**<br>
+**Paises:** Todos los posibles<br>
+**Jugador:** casual o no casual<br>
+**Potncial de ventas/interes:** 
